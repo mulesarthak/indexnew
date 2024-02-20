@@ -1,0 +1,237 @@
+*{
+    color: white;
+    background-color: black;
+}
+.navbar{
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    
+    
+}
+.portfolio{
+    color: white;
+    margin-left: 50px;
+}
+
+.home{
+    margin-left: 1000px;
+    display: flex;
+    align-items: center;
+    color: rgb(0, 95, 135);
+}
+.home:hover{
+    text-decoration-color: blue;
+}
+.about{
+    margin-left: 25px;
+    display: flex;
+    align-items: center;
+    color: rgb(0, 95, 135);
+}
+.education{
+    margin-left: 25px;
+    display: flex;
+    align-items: center;
+}
+.skill{
+    margin-left: 25px;
+    display: flex;
+    align-items: center;
+}
+.contact{
+    margin-left: 25px;
+    display: flex;
+    align-items: center;
+}
+.intro{
+
+    height: 100%;
+    width: 100%;
+    font-size: 3rem;
+    margin-left: 50px;
+}
+.field{
+    font-size: 2rem;
+    margin-left: 50px;
+    color: rgb(0, 95, 135);
+}
+.para1{
+    font-size: 1rem;
+    margin-left: 50px;
+    margin-top: 50px;
+    color: rgb(203, 199, 199);
+}
+.para2{
+    font-size: 1rem;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+footer{
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    margin-top: 100px;
+   
+}
+.footerinfo{
+    text-align: center;
+    display: flex;
+    margin-left: 500px;
+}
+.hello{
+    color: rgb(0, 95, 135);
+}
+/* About me */
+.aboutme{
+    display: flex;
+    margin-top: 100px;
+
+}
+.about_two{
+    font-size: 2rem;
+    margin-left: 680px;
+}
+.me{
+    font-size: 2rem;
+    color: rgb(0, 95, 135);
+    margin-left: 10px;
+}
+.image{
+    height: 500px;
+    width: 500px;
+    background-image: url("face.jpg");
+}
+.icons{
+    display: flex;
+}
+/* education */
+.journey{
+    display: flex;
+    text-align: center;
+    margin-top: 100px;
+    
+}
+.my{
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+    text-align: center;
+    align-items: center;
+    margin-left: 650px;
+}
+.jour{
+    font-size: 2rem;
+    margin-left: 10px;
+    color: rgb(0, 95, 135);
+}
+.largebox{
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+.eduboxup{
+    display: flex;
+}
+.edubox1{
+    width: 300px;
+    border: 10px solid rgb(0, 95, 135);
+    padding: 30px;
+    margin: 20px;
+    color: white;
+    text-align: center;
+    margin-left:350px;
+}
+.edubox2{
+    width: 330px;
+    border: 10px solid rgb(0, 95, 135);
+    padding: 30px;
+    margin: 20px;
+    color: white;
+    text-align: center;
+}
+.eduboxdown{
+    display: flex;
+}
+.edubox3{
+    width: 300px;
+    border: 10px solid rgb(0, 95, 135);
+    padding: 30px;
+    margin: 20px;
+    color: white;
+    text-align: center;
+    margin-left: 550px;
+}
+.edubox4{
+    width: 300px;
+    border: 10px solid rgb(0, 95, 135);
+    padding: 30px;
+    margin: 20px;
+    color: white;
+    text-align: center;
+
+}
+/* Education */
+.codingskills{
+    text-align: center;
+    font-size: 2rem;
+    display: flex;
+    margin-top: 100px;
+}
+.coding{
+    margin-left: 650px;
+    font-size: 2rem;
+}
+.skills{
+    margin-left: 10px;
+    font-size: 2rem;
+    color: rgb(0, 95, 135);
+}
+.skillbox{
+    height: 400px;
+    width: 1100px;
+    border: 10px solid rgb(0, 95, 135);
+    padding: 30px;
+    margin: 20px;
+    color: white;
+    margin-left: 140px;
+}   
+.skillsimage{
+    background-image: url("barchart2.png");
+    height: 400px;
+    width: 1100px;
+    color: red;
+}
+/* contact me */
+.contactme{
+    display: flex;
+    margin-top: 100px;
+
+}
+.contact_unique{
+    font-size: 2rem;
+    margin-left: 680px;
+}
+.me_unique{
+    font-size: 2rem;
+    color: rgb(0, 95, 135);
+    margin-left: 10px;
+}
+
+
+.me{
+    font-size: 2rem;
+    margin-left: 10px;
+    color: rgb(0, 95, 135);
+}
+
+.contactbox{
+    width: 300px;
+    border: 15px solid rgb(8, 180, 248);
+    padding: 30px;
+    margin: 20px;
+    color: white;
+    text-align: center;
+    margin-left:350px;
+}
